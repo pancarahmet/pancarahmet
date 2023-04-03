@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pancarahmet
-- 👀 I’m interested in coding with Flutter, Java, C#, C, C++
+- 👀 I’m interested in coding with Flutter, Java, C#, Python, C, C++
 - 📫 How to reach me pancarahmet@gmail.com
 
 <!---
